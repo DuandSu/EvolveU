@@ -1,0 +1,1 @@
+The whole world has access to the repository.
